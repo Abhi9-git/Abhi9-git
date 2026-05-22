@@ -1,14 +1,14 @@
 # Hey I'm Abhinav
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Data+Science" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌌 About Me
-- 🔭 **Current Focus:** Building scalable machine learning pipelines and deep learning models.
-- ⚙️ **Core Philosophy:** Bridging the gap between robust software engineering and production-grade AI (MLOps).
+- 🔭 **Current Focus:** Exploring scalable machine learning pipelines and deep learning models.
+- ⚙️ **Core Philosophy:** exploring the gap between robust software engineering and production-grade AI (MLOps).
 - 🧠 **Interests:** Computer Vision, Natural Language Processing, and optimizing algorithm efficiency.
 - 💬 **Ask me about:** Python, data structures, model deployment, or why clean code matters in data science.
 
@@ -23,6 +23,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 
 ###  Software Engineering & Databases
 ⚙️ [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
