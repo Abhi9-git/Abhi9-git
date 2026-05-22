@@ -39,14 +39,6 @@
 
 ---
 
-## 📊 Git Metrics & Analytics
-
-<p align="center">
-  <!-- This pulls directly from your repo! Absolute zero risk of downtime. -->
-  <img src="github-metrics.svg" alt="My GitHub Metrics" width="100%" />
-</p>
-
----
 
 ## 📈 Activity & Contributions
 
