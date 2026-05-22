@@ -52,7 +52,7 @@
 
 <p align="center">
   <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi9-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="70%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abhi9-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="70%" />
 </p>
 
 
