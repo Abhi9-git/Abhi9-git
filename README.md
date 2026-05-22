@@ -6,11 +6,11 @@
 
 ---
 
-## 🌌 About Me
-- 🔭 **Current Focus:** Exploring scalable machine learning pipelines and deep learning models.
-- ⚙️ **Core Philosophy:** exploring the gap between robust software engineering and production-grade AI (MLOps).
-- 🧠 **Interests:** Computer Vision, Natural Language Processing, and optimizing algorithm efficiency.
-- 💬 **Ask me about:** Python, data structures, model deployment, or why clean code matters in data science.
+##  About Me
+-  **Current Focus:** Exploring scalable machine learning pipelines and deep learning models.
+-  **Core Philosophy:** exploring the gap between robust software engineering and production-grade AI (MLOps).
+-  **Interests:** Computer Vision, Natural Language Processing, and optimizing algorithm efficiency.
+-  **Ask me about:** Python, data structures, model deployment, or why clean code matters in data science.
 
 ---
 
@@ -42,8 +42,15 @@
 ## 📊 Git Metrics & Analytics
 
 <p align="center">
-  <!-- This pulls directly from your repo! Absolute zero risk of downtime. -->
-  <img src="github-metrics.svg" alt="My GitHub Metrics" width="100%" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi9-git&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi9-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi9-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="70%" />
 </p>
 
 
